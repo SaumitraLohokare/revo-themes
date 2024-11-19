@@ -1,0 +1,24 @@
+{
+  "ui": {
+    "base_bg": "#fff9e6",
+    "base_text": "#5e4d35"
+  },
+  "editor": {
+    "bg": "#fdf7e3",
+    "current_line": "#f0e6b9",
+    "text": "#5e4d35",
+    "comments": "#b29a68",
+    "keywords": "#d8a84e",
+    "string_literal": "#8f9c5a",
+    "number_literal": "#d1af7d",
+    "line_numbers": "#bfa76a"
+  },
+  "overlay": {
+    "bg": "#f2e6b5",
+    "text": "#4f3e27"
+  },
+  "status_line": {
+    "bg": "#f7f1d4",
+    "text": "#3f2b1f"
+  }
+}
